@@ -1,0 +1,83 @@
+- Natural:
+        graper  - give xp only.
+        xp_lv = 2
+        hp_lv = 10
+        damage = random.randint(0, 1)
+        #terraincast
+
+        frank   - attack directly.
+        xp_lv = 5
+        hp_lv = 25
+        damage = 1
+        #terraincast
+
+        karate   - attack directly.
+        xp_lv = 7
+        hp_lv = 35
+        damage = 5
+        #fly
+
+        graster - attack by a shulkering arrow (arrow that definitely hit you until it destroy.).
+        xp_lv = 9
+        hp_lv = 45
+        damage = 10
+        #fly
+        #shout
+
+        gastro - attack by an explosive and shulkering arrow.
+        xp_lv = 15
+        hp_lv = 75
+        damage = 20
+        #fly
+        #shout
+
+
+
+- dark:
+        graper  - give xp only.
+        xp_lv = 10
+        hp_lv = 20
+        damage = 1
+        #dark
+        #terraincast
+
+        frank   - give xp only.
+        xp_lv = 25
+        hp_lv = 50
+        damage = 5
+        #dark
+        #terraincast
+
+        karate   - attack directly.
+        xp_lv = 35
+        hp_lv = 70
+        damage = 25
+        #dark
+        #fly
+
+        graster - attack by a shulkering arrow (arrow that definitely hit you until it destroy.).
+        xp_lv = 45
+        hp_lv = 100
+        damage = 50
+        #dark
+        #fly
+        #shout
+
+        gastro - attack by an explosive and shulkering arrow.
+        xp_lv = 75
+        hp_lv = 175
+        damage = 100
+        #dark
+        #fly
+        #shout
+
+
+- Bose:
+        ???
+        xp_lv = 1024
+        hp_lv = 1000
+        damage = random.randint(100, 500)
+        #fly
+        #shout
+        #dark
+        #???
